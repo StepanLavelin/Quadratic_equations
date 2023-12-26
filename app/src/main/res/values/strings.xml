@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quadratic_equations</string>
+    <string name="rezult">РЕЗУЛЬТАТ</string>
+    <string name="equation">Уравнение вида</string>
+</resources>
